@@ -1,9 +1,9 @@
 
-# Myblogs
+# ClassicQuestion
 
 
-> 我要开始装逼了
+> java面试常见经典问题，个人在学习Java全栈知识体系应对社招面试时做的几点补充
 
 
-[CSDN](https://blog.csdn.net/m0_37965018)
-[滚动鼠标](#introduction)
+[Java全栈知识体系](https://www.pdai.tech/md/interview/x-interview.html)
+[我的主页](https://strawqqhat.github.io/)
