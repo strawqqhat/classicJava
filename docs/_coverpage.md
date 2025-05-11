@@ -1,9 +1,9 @@
 
-# classicQuestion
+# Myblogs
 
 
-> java面试常见经典问题
+> 我要开始装逼了
 
 
-[Java全栈知识体系](https://www.pdai.tech/md/interview/x-interview.html)
-[我的主页](https://strawqqhat.github.io/)
+[CSDN](https://blog.csdn.net/m0_37965018)
+[滚动鼠标](#introduction)
