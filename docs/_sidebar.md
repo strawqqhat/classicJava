@@ -1,1 +1,4 @@
+- [Java](classic/java)
 - [MySQL](classic/mysql)
+- [Redis](classic/redis)
+- [MQ](classic/mq)
