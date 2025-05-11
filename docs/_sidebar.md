@@ -1,3 +1,3 @@
 - 经典问题
 
-  - [经典问题](经典问题.md)
+  - [经典问题](classicQuestions.md)
