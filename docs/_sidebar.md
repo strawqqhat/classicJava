@@ -1,3 +1,3 @@
-- 经典问题
+- 问题列表
 
-  - [经典问题](classic/classicQuestions.md)
+  - [问题归类](classic/classicQuestions.md)
